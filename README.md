@@ -32,4 +32,5 @@ This project introduces a **smart AI chatbot** that:
 ---
 
 ## 🧠 Architecture Overview
-<img width="5964" height="847" alt="Portfolio RAG Chatbot" src="https://github.com/user-attachments/assets/fb37362d-00f6-4c18-9a4e-7a9e83d2f66a" />
+<img width="5476" height="790" alt="Portfolio RAG Chatbot Flow Chart" src="https://github.com/user-attachments/assets/70d3033a-eb3b-4070-be08-f62ce7dd04e7" />
+
