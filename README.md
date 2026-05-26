@@ -29,7 +29,7 @@ This project introduces a **smart AI chatbot** that:
 - Retrieves relevant data from a knowledge base (Pinecone)
 - Generates contextual responses in real-time
 
->  * Users engagement: a static portfolio gets ~30-60 seconds of attention; a chatbot extends interactive time to 3-5 minutes on average
+>  * User engagement: a static portfolio gets ~30-60 seconds of attention; a chatbot extends interactive time to 3-5 minutes on average
 >  * Information retrieval: finding specific project details manually (navigate -> scroll -> read) takes ~2-4 minutes; chatbot answers in seconds
 >  * Coverage: answers questions across all portfolio sections simultaneously without the visitor needing to navigate
 
